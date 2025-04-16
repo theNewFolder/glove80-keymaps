@@ -91,8 +91,7 @@ customized its default keymap), you might find the Factory layer to be useful:
 
 This shortcut will toggle the Factory layer on/off and allow you to experiment
 with this keymap while maintaining an easy escape route to the factory default.
-
-### Operating system
+ating system
 
 First, let's configure this keymap to better suit your operating system by
 adding one of the following lines (just copy+paste whichever is appropriate)
